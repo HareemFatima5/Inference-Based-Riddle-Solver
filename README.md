@@ -15,15 +15,24 @@
 4. **Brain Quest**: Solve complex reasoning puzzles.
 5. **Resolution**: A mystery puzzle to test your inference abilities.
 
-## Requirements
+## Technologies Used
 
-- Python 3.x
-- Pygame
-- Z3 solver
+- **Python**: Core programming language.
+- **Pygame**: For building the graphical user interface.
+- **Z3 solver**: to solver symbolic logic.
 
-## Installation
+## Getting Started
 
-To run this game, you need to install Python and Pygame. You can install Pygame using pip:
+### Prerequisites
+
+- Python installed
+- Python IDE (Visual Studio, Pycharm etc)
+- To run this game, you need to install Pygame. Pygame can be installed using pip:
 
 ```bash
 pip install pygame
+
+## Credits
+-The other contributors are [Fizza Kashif](https://github.com/fizza49) and [Misbah Shaheen](https://github.com/Misbah-shaheen).
+
+
