@@ -1,5 +1,6 @@
 # Inference Riddle Solver
 
+## Overview
 
 ## Features
 
@@ -31,6 +32,7 @@
 
 ```bash
 pip install pygame
+
 
 ## Credits
 -The other contributors are [Fizza Kashif](https://github.com/fizza49) and [Misbah Shaheen](https://github.com/Misbah-shaheen).
