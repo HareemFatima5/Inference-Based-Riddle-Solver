@@ -20,7 +20,7 @@
 
 - **Python**: Core programming language.
 - **Pygame**: For building the graphical user interface.
-- **Z3 solver**: to solver symbolic logic.
+- **Z3 solver**: to solve symbolic logic.
 
 ## Getting Started
 
@@ -31,9 +31,9 @@
 - To run this game, you need to install Pygame and Z3 solver. They can be installed using pip:
 
 ```bash
-pip install pygame.
-pip install z3-solver.
-
+pip install pygame
+pip install z3-solver
+```
 ## Credits
 - The other contributors are [Fizza Kashif](https://github.com/fizza49) and [Misbah Shaheen](https://github.com/Misbah-shaheen).
 
