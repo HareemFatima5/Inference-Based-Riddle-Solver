@@ -1,6 +1,7 @@
 # Inference Riddle Solver
 
 ## Overview
+Inference Riddle Solver is a fun and engaging game designed to challenge your logical thinking and inference skills. Solve various riddles and puzzles, each crafted to test your reasoning abilities.
 
 ## Features
 
@@ -18,9 +19,9 @@
 
 ## Technologies Used
 
-- **Python**: Core programming language.
-- **Pygame**: For building the graphical user interface.
-- **Z3 solver**: to solve symbolic logic.
+- **Python**: The core programming language.
+- **Pygame**: Used for building the graphical user interface.
+- **Z3 solver**: Employed for solving symbolic logic problems.
 
 ## Getting Started
 
@@ -28,12 +29,19 @@
 
 - Python installed
 - Python IDE (Visual Studio, Pycharm etc)
-- To run this game, you need to install Pygame and Z3 solver. They can be installed using pip:
+  
+### Installation
+To run this game, you need to install the required libraries. Use the following commands:
 
 ```bash
 pip install pygame
 pip install z3-solver
 ```
+### Running the Game
+1. Clone or download the game source code.
+2. Open the game project in your Python IDE.
+3. Run the main Python file to start the game.
+   
 ## Credits
 - The other contributors are [Fizza Kashif](https://github.com/fizza49) and [Misbah Shaheen](https://github.com/Misbah-shaheen).
 
